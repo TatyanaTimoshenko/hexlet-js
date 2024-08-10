@@ -1,5 +1,19 @@
 {
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "frontend-school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "timosh",
+  "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.3.3"
   }
 }
